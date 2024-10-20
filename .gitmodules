@@ -1,3 +1,6 @@
 [submodule "AI"]
 	path = AI
 	url = https://github.com/cs04654/AI
+[submodule "VR"]
+	path = VR
+	url = https://github.com/cs04654/VR
