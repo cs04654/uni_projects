@@ -52,3 +52,6 @@
 [submodule "digital-design"]
 	path = digital-design
 	url = https://github.com/cs04654/digital-design.git
+[submodule "Computer_Vision"]
+	path = Computer_Vision
+	url = https://github.com/cs04654/Computer_Vision
