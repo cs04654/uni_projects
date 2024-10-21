@@ -19,3 +19,33 @@
 [submodule "Robotics"]
 	path = Robotics
 	url = https://github.com/cs04654/Robotics
+[submodule "VLSI"]
+	path = VLSI
+	url = https://github.com/cs04654/VLSI
+[submodule "Compilers"]
+	path = Compilers
+	url = https://github.com/cs04654/Compilers
+[submodule "Parallel_programing"]
+	path = Parallel_programing
+	url = https://github.com/cs04654/Parallel_programing
+[submodule "Graphics"]
+	path = Graphics
+	url = https://github.com/cs04654/Graphics
+[submodule "Wireless_Links"]
+	path = Wireless_Links
+	url = https://github.com/cs04654/Wireless_Links
+[submodule "Multimedia"]
+	path = Multimedia
+	url = https://github.com/cs04654/Multimedia
+[submodule "Analog_Design"]
+	path = Analog_Design
+	url = https://github.com/cs04654/Analog_Design
+[submodule "Databases"]
+	path = Databases
+	url = https://github.com/cs04654/Databases
+[submodule "networks_II"]
+	path = networks_II
+	url = https://github.com/cs04654/networks_II
+[submodule "Evaluation-of-machine-learning-techniques-for-wireless-link-quality-prediction"]
+	path = Evaluation-of-machine-learning-techniques-for-wireless-link-quality-prediction
+	url = https://github.com/cs04654/Evaluation-of-machine-learning-techniques-for-wireless-link-quality-prediction
