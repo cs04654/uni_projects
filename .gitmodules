@@ -49,3 +49,6 @@
 [submodule "Evaluation-of-machine-learning-techniques-for-wireless-link-quality-prediction"]
 	path = Evaluation-of-machine-learning-techniques-for-wireless-link-quality-prediction
 	url = https://github.com/cs04654/Evaluation-of-machine-learning-techniques-for-wireless-link-quality-prediction
+[submodule "digital-design"]
+	path = digital-design
+	url = https://github.com/cs04654/digital-design.git
