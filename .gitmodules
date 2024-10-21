@@ -1,3 +1,21 @@
 [submodule "AI"]
 	path = AI
 	url = https://github.com/cs04654/AI
+[submodule "VR"]
+	path = VR
+	url = https://github.com/cs04654/VR
+[submodule "Operating-Systems"]
+	path = Operating-Systems
+	url = https://github.com/cs04654/Operating-Systems
+[submodule "Architecture"]
+	path = Architecture
+	url = https://github.com/cs04654/Architecture
+[submodule "Networking"]
+	path = Networking
+	url = https://github.com/cs04654/Networking
+[submodule "Numerical-analysis-octave-"]
+	path = Numerical-analysis-octave-
+	url = https://github.com/cs04654/Numerical-analysis-octave-
+[submodule "Robotics"]
+	path = Robotics
+	url = https://github.com/cs04654/Robotics
