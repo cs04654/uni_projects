@@ -1,1 +1,1 @@
-## University projects and my Thesis 
+## University projects 
