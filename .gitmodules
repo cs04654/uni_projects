@@ -52,3 +52,6 @@
 [submodule "Computer_Vision"]
 	path = Computer_Vision
 	url = https://github.com/cs04654/Computer_Vision
+[submodule "Microprocessors"]
+	path = Microprocessors
+	url = https://github.com/cs04654/Microprocessors
